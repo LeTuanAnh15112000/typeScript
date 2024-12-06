@@ -1,0 +1,1 @@
+let count1: number = 10;

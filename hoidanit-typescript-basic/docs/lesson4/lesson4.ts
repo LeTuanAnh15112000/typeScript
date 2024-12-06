@@ -3,7 +3,7 @@ const sum3 = (x: number, y: number) => {
 }
 
 //no error
-console.log(sum3(5, 10));
+console.log(sum3(5, "10"));
 
 //error
 // console.log(sum3(5, '15'));

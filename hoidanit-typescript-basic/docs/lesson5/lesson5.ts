@@ -1,6 +1,6 @@
 const nameTS = 'Eric';
 
-console.log('length = ',)
+console.log('length = ', nameTS.length)
 
-console.log('upPerCasse = ',)
+console.log('upPerCasse = ', nameTS.toUpperCase)
 
